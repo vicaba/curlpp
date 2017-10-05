@@ -46,6 +46,7 @@
 namespace
 {
 
+/*
 char *data = NULL;
 
 size_t readData(char *buffer, size_t size, size_t nitems)
@@ -53,6 +54,7 @@ size_t readData(char *buffer, size_t size, size_t nitems)
   strncpy(buffer, data, size * nitems);
   return size * nitems;
 }
+*/
 
 } // namespace
 
